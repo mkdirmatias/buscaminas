@@ -6,7 +6,7 @@ Típico juego de busca minas para la clase de **Taller de programación II**
 # Características
 
  - Posibilidad de elegir un nickname
- - Elegir un porcentaje de bombas que habrán en el juego
+ - Elegir un porcentaje de bombas que habrá en el juego
  - Seleccionar Dificultad: **Fácil-Intermedio-Difícil-Personalizado**
  - Guardar una partida
  - Cargar partida guardada
